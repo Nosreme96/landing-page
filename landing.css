@@ -85,6 +85,7 @@ div.quote
 .content-four
 {
     margin: 100px 200px;
+    display: flex;
 }
 button
 {
